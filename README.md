@@ -1,1 +1,1 @@
-Ejercicio 1: [8-puzzzle](https://germanmz.github.io/IA1_Tarea1_201114496/01_reflex_agent.html).
+Ejercicio 1: [8-puzzle](https://germanmz.github.io/8-puzzle_BF/).
