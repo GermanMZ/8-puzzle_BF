@@ -1,0 +1,1 @@
+Ejercicio 1: [8-puzzzle](https://germanmz.github.io/IA1_Tarea1_201114496/01_reflex_agent.html).
